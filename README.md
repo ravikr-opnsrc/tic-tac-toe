@@ -40,4 +40,7 @@ This project implements a classic Tic-Tac-Toe game using HTML, CSS, and JavaScri
 
 - `app.js`: The JavaScript file containing the game logic, including symbol placement, winning detection, and restart functionality.
 
+  <img width="1334" alt="Screenshot 2023-08-17 at 11 01 32 AM" src="https://github.com/ravikr-opnsrc/tic-tac-toe/assets/135989427/6a87aefd-5ccd-4553-8222-a92d6ebe99b6">
+
+
  
