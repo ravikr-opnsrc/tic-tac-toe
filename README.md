@@ -12,7 +12,7 @@ This project implements a classic Tic-Tac-Toe game using HTML, CSS, and JavaScri
 
 ## How to Play
 
-1. Open the [Tic-Tac-Toe](index.html) webpage in your browser.
+1. Open the index.html webpage in your browser.
 
 2. The game board consists of a 3x3 grid where players can place their symbols.
 
